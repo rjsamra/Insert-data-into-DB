@@ -1,0 +1,9 @@
+CREATE TABLE `testing` (
+	`userid` int(8) NOT NULL,
+	`name` varchar(55) NOT NULL,
+	`email` varchar(50) NOT NULL
+	`mobno` int(10) NOT NULL,
+	`dob` varchar(55) NOT NULL,
+	`pcode` int(6) NOT NULL,
+	
+)
